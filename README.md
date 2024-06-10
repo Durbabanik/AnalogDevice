@@ -24,10 +24,22 @@ Metrics endpoint for Prometheus.
 # Running the Application
 
 - docker-compose up --build
+In the terminal you can see 
+![image](https://github.com/Durbabanik/AnalogDevice/blob/main/Image/Docker-compose-execute.png)
+
 - Open your browser and navigate to http://0.0.0.0:8000.
 - Access the API documentation at http://0.0.0.0:8000/docs. (swagger UI)
 
-![image](https://github.com/bcg-cpe-shared-tooling/bcg-cpe-terraform-aws-ipam/assets/108435425/31114976-0e75-4a0c-9bc7-29a68ecf145e)
+![image](https://github.com/Durbabanik/AnalogDevice/blob/main/Image/FastAPI-Swagger.png)
+![image](https://github.com/Durbabanik/AnalogDevice/blob/main/Image/GET-Cart-id.png)
+![image](https://github.com/Durbabanik/AnalogDevice/blob/main/Image/Create-cart.png)
+![image](https://github.com/Durbabanik/AnalogDevice/blob/main/Image/Delete-cart.png)
+![image](https://github.com/Durbabanik/AnalogDevice/blob/main/Image/Health-check.png)
+![image](https://github.com/Durbabanik/AnalogDevice/blob/main/Image/Create-Item.png)
+
+# Accesse database with pgadmin and created table 
+
+![image](https://github.com/Durbabanik/AnalogDevice/blob/main/Image/database.png)
 
 # The docker compose file 
 
