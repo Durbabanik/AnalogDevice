@@ -18,8 +18,9 @@ Metrics endpoint for Prometheus.
 
 - Clone the repository:
 - Create a virtual environment and activate it
-  python -m venv venv
-  source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+   - python -m venv venv
+   - source venv/bin/activate 
 
 # Running the Application
 
