@@ -7,6 +7,7 @@ assignment
 This is a simple shopping cart application built using FastAPI and SQLModel. The application supports adding items to carts, viewing cart contents, and removing items from carts.
 
 **Features**
+
 Create and delete shopping carts.
 Add items to a cart.
 Remove items from a cart.
